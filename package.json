@@ -16,7 +16,7 @@
     "node": ">=0.4"
   },
   "dependencies": {
-    "@textlint/markdown-to-ast": "~6.0.9",
+    "@textlint/markdown-to-ast": "~6.1.0",
     "anchor-markdown-header": "^0.5.5",
     "htmlparser2": "~3.9.2",
     "minimist": "~1.2.0",
